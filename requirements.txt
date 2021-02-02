@@ -4,8 +4,10 @@ nbgitpuller
 numpy
 matplotlib
 pandas
+tqdm
+scipy
 
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==1.7.1+cpu 
 -f https://download.pytorch.org/whl/torch_stable.html
-torchvision==0.8.2+cpu 
+torchvision==0.8.2+cpu
